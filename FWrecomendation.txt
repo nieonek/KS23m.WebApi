@@ -1,0 +1,14 @@
+Framework Choice
+
+	First of all I should list few factors of this project that should influence the choice of framework:
+-Very limited use due to its educational/learning purpose.
+-Small scale of the project.
+-Very little or even non-existent experience of 50% of the developer team.
+-Security, authentication, access etc are almost non-issue with the exception of learning purpose.
+-Very limited possible scalability or need for maintenance of the project after its initial  completion. 
+-Absence of any kind of deadlines or other contract commitments.
+
+	Taking these into account, the framework should be first of all easy to start with a simple learning curve. Flexibility and simplicity of it should be preffered over more  complex frameworks. Therefore a so called lightweight solution should be considered first. 
+	Because of that I would recommend Bottle or Flask, as both of them have a reputation of being easy to learn for beginners and very suitable for micro projects, which our's most certainly will be. 
+	Of those two I slightly favor Flask. While both of them come advertised as perfect for small projects. Flask has a better reputation in terms of being user and beginner friendly. Flask also has better database support trough extensions or added libraries, which is not the case of Bottle. This might be useful in final stages of the project.  In addition it has advantage of being much more widely used with bigger support avialable online.
+		
